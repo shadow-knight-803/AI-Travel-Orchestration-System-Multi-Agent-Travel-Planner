@@ -1,0 +1,17 @@
+langgraph
+langchain
+langchain-groq
+langchain-openai
+langchain-community
+langchain-tavily
+tavily-python
+requests
+python-dotenv
+pydantic
+streamlit
+
+psycopg[binary,pool]
+langgraph-checkpoint-postgres
+
+mcp[cli]
+langchain-mcp-adapters
